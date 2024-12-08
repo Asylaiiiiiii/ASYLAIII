@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="kk">
 <head>
     <meta charset="UTF-8">
@@ -66,7 +66,7 @@
             "Шындық — даналыққа апарар бірінші қадам." - Сократ
         </div>
 
-        <img src="asylai.jpeg" alt="Фото Асылай" class="profile-img">
+        <img src="path_to_your_image.jpg" alt="Фото Асылай" class="profile-img">
 
         <div class="info">
             <h1>Бекенова Асылай</h1>
@@ -85,3 +85,5 @@
 
 </body>
 </html>
+
+
