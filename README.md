@@ -79,7 +79,7 @@
 
         <div class="portfolio">
             <h2>Портфолио</h2>
-            <a href="https://example.com/your-portfolio" target="_blank">Мое портфолио</a>
+            <a href="https://asylaybekenova.wixsite.com/asylai1" target="_blank">Мое портфолио</a>
         </div>
     </div>
 
